@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://your-image-link-here.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj4RSa53IsOBZEqWW9p0bp-ye_sdVlG8SWg&s)" alt="Sivasai Nukala's Photo" width="200" style="border-radius:50%;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj4RSa53IsOBZEqWW9p0bp-ye_sdVlG8SWg&s" alt="Sivasai Nukala's Photo" width="200" style="border-radius:50%;"/>
 </p>
 
 # 💫 About Me:
