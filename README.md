@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sivasai Nukala</h1>
-<h3 align="center">A passionate Full Stack Developer & AWS Cloud Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack developer, AWS Cloud Aspirant from India</h3>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="[https://your-image-link-here.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj4RSa53IsOBZEqWW9p0bp-ye_sdVlG8SWg&s)" alt="Sivasai Nukala's Photo" width="200" style="border-radius:50%;"/>
+</p>
 
 # 💫 About Me:
 - 🔭 Currently working on **Feedback Management System**
