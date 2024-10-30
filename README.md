@@ -24,8 +24,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sivasaiklu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sivasaiklu&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -44,3 +43,6 @@
 
 [![An image of @sivasaiklu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sivasaiklu)](https://holopin.io/@sivasaiklu)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sivasaiklu&icon=5&color=6)](https://visitcount.itsvg.in)
