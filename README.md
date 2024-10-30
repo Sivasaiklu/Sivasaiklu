@@ -40,5 +40,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 
+<br> <summary><b>Hacktoberfest 2024 Badges 🪶</b></summary> <br>
+
 [![An image of @sivasaiklu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sivasaiklu)](https://holopin.io/@sivasaiklu)
 
