@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack developer, AWS Cloud Aspirant from India</h3>
 
 # 💫 About Me:
-- 🔭 Currently working on **Feedback Management System**
-- 🌱 Learning **Java Full Stack, DSA, Cloud Services, Data Analysis**
+- 🔭 Currently working on **Reacr Projects**
+- 🌱 Learning **MERN Stack, DSA, Cloud Services, Data Analysis**
 - 👯 Open to collaborate on **MERN Stack Projects**
 - 🤝 Seeking insights on **AWS Developer Resources**
 - 💬 Ask me about **AWS Services** and **Data Analysis**
