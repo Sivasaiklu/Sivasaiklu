@@ -6,7 +6,7 @@
 - 🌱 Learning **MERN Stack, DSA, Cloud Services, Data Analysis**
 - 👯 Open to collaborate on **MERN Stack Projects**
 - 🤝 Seeking insights on **AWS Developer Resources**
-- 💬 Ask me about **AWS Services** and **Data Analysis**
+- 💬 Ask me about **AWS Services** and **Web Dev**
 - 📫 Reach me at **sivasainookala@gmail.com**
 
 ---
