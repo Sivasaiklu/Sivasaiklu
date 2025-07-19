@@ -3,10 +3,10 @@
 
 # 💫 About Me:
 - 🔭 Currently working on **React Projects**
-- 🌱 Learning **MERN Stack, DSA, Cloud Services, Data Analysis**
+- 🌱 Proficient in **MERN Stack and AWS Cloud**
 - 👯 Open to collaborate on **MERN Stack Projects**
-- 🤝 Seeking insights on **AWS Developer Resources**
-- 💬 Ask me about **AWS Services** and **Web Dev**
+- 🤝 Seeking insights on **AWS Devops Engineer Resources**
+- 💬 Ask me about **Cloud Computing** and **Web Dev**
 - 📫 Reach me at **sivasainookala@gmail.com**
 
 ---
