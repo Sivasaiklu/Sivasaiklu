@@ -1,52 +1,67 @@
 <h1 align="center">Hi 👋, I'm Sivasai Nukala</h1>
-<h3 align="center">A passionate Full Stack developer, AWS Cloud Aspirant from India</h3>
+<h3 align="center">A passionate Full Stack Developer & AWS Cloud Aspirant from India</h3>
 
-# 💫 About Me:
-- 🔭 Currently working on **React Projects**
-- 🌱 Proficient in **MERN Stack and AWS Cloud**
-- 👯 Open to collaborate on **MERN Stack Projects**
-- 🤝 Seeking insights on **AWS Devops Engineer Resources**
-- 💬 Ask me about **Cloud Computing** and **Web Dev**
-- 📫 Reach me at **sivasainookala@gmail.com**
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasainukala16)
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) [NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ! ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-
-
----
-
-# 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sivasaiklu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasaiklu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasaiklu&theme=neon&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sivasaiklu&theme=neon&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=Sivasaiklu">
+    <img src="https://streak-stats.demolab.com/?user=Sivasaiklu&theme=neon" alt="GitHub Streak" />
+  </a>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Sivasaiklu&icon=9&color=9)](https://visitcount.itsvg.in)
+
 ---
 
-### ✍️ Dev Quote:
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 👨‍💻 About Me
 
-### 🔝 Top Contributed Repositories:
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Sivasaiklu&limit=5&theme=neon&combine_all_yearly_contributions=true)
+- 🎓 CS student at **KL University (Graduating 2026)**
+- 🌱 Proficient in **MERN Stack, AWS Cloud, and DevOps**
+- 🔭 Currently working on **React Projects** and open to MERN collaborations
+- 🧑‍💻 Passionate about Web Development, Cloud Computing, and Algorithms
+- 🚀 44+ repositories, 145+ commits, 17 pull requests, contributed to 38+ projects
+- 💬 Ask me about **Cloud Computing** and **Web Development**
+- 🤝 Always eager to collaborate and share ideas!
 
 ---
 
-## 🪶 GSSOC(24) Badges:
-<div align="center" style="display: flex; gap: 10px;">
+## 🚀 Skills & Experience
+
+- **Languages:** JavaScript, HTML, CSS, TypeScript, C, Java
+- **Frameworks & Tools:** React, Node.js, Express.js, MongoDB, MySQL, AWS, Netlify, Postman, Git, GitHub, GitLab, NPM, Power BI, Canva
+- **Core Projects:**  
+  - 🚗 *Road Condition Monitoring*  
+  - 📐 *Graham Scan Algorithm*  
+  - 📚 *Topological Sorting Algorithm*  
+  - 🛠️ *CodeTinker*, *TextTweaks*
+- **Hackathons:** Active participant in **GSSOC(24)** & **Hacktoberfest 2024**
+
+---
+
+## 📊 GitHub Highlights
+
+|        |                                                              |
+|--------|--------------------------------------------------------------|
+| **Repos** | 44  |
+| **Commits** | 145  |
+| **Pull Requests** | 17  |
+| **Contributed Projects** | 38  |
+| **Followers** | 2  |
+| **Following** | 2  |
+
+---
+
+## 🏅 Community Badges
+
+### GSSOC(24) Badges
+<p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
@@ -55,15 +70,45 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" />
   </a>
-</div>
+</p>
 
----
+### Hacktoberfest 2024 Badges
 
-## 🪶 Hacktoberfest 2024 Badges:
 [![Holopin Badge](https://holopin.me/sivasaiklu)](https://holopin.io/@sivasaiklu)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sivasaiklu&icon=9&color=9)](https://visitcount.itsvg.in)
+## 🔝 Top Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Sivasaiklu&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Dev Quote
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasai-nukala/)  
+✉️ Email: [sivasainukala@gmail.com](mailto:sivasainukala@gmail.com)
+
+---
+
+## 🎯 Learning Journey
+
+A dedicated undergraduate with a robust foundation in CS fundamentals, actively expanding expertise in full-stack development and cloud technologies. My GitHub contributions mirror an eagerness to learn, create, and contribute to a global developer community.
+
+---
+
+## 🌟 Summary
+
+With a blend of technical skills, diverse projects, and community involvement, I strive to grow as a developer and team player.  
+**Let’s connect, build, and make an impact together!**
+
+---
+
+<!-- Proudly created with Perplexity AI and inspired by GPRM ( https://gprm.itsvg.in ) -->
+
