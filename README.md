@@ -92,8 +92,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasai-nukala/)  
-✉️ Email: [sivasainukala@gmail.com](mailto:sivasainukala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasainukala16/)  
+✉️ Email: [sivasainookala@gmail.com](mailto:sivasainookala@gmail.com)
 
 ---
 
